@@ -1,0 +1,7 @@
+f=open("t.txt","w")
+f.writelines("1,BLOCK A,RAM,560097")
+f.writelines("2,BLOCK B,RAJ,560091")
+f.writelines("3,BLOCK C,ROHAN,560092")
+f.writelines("4,BLOCK D,RAMESH,560092")
+f.writelines("5,BLOCK E,RAMU,560098")
+f.close()
